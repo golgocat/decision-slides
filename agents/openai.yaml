@@ -1,0 +1,4 @@
+interface:
+  display_name: "Decision Slides"
+  short_description: "Create clear bilingual business decision decks"
+  default_prompt: "Use $decision-slides to create or review this deck with one message per slide, meaningful structure, intentional line breaks, bilingual switching, and keyboard navigation."
